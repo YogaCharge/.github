@@ -1,0 +1,2 @@
+# .github
+Contains informative content
