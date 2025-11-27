@@ -24,7 +24,7 @@ Dieses Projekt wird von folgenden Entitäten unterstützt:
 
 ## Mitmachen
 
-Falls interesse besteht, hier mitzumachen (Sei es als Teilnehmer bei den Feldversuchen, oder aktives Einwirken bei der Entwicklung), können sich per [E-Mail](mailto:ricardo.simoes@adnovum.ch) melden.
+Falls interesse besteht, hier mitzumachen (Sei es als Teilnehmer bei den Feldversuchen, oder aktives Einwirken bei der Entwicklung), können sich per [E-Mail](mailto:ricardo.simoes@adnovum.ch?subject=Partizipationr%20bei%20YogaCharge) melden.
 
 
 <hr>
@@ -52,4 +52,4 @@ This project is planned, lead, built and financed by the following companies/ent
 
 ## Participation
 
-If interest exists of participating, be it as additional partner for tests, or even as contributor to the development, you can contact us by [e-mail](mailto:ricardo.simoes@adnovum.ch).
+If interest exists of participating, be it as additional partner for tests, or even as contributor to the development, you can contact us by [e-mail](mailto:ricardo.simoes@adnovum.ch?subject=Participation%20at%20YogaCharge).
